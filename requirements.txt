@@ -9,3 +9,4 @@ torch
 pillow
 scipy
 torchvision
+pandas
